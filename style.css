@@ -1,0 +1,25 @@
+body{
+    
+}
+.main{
+    background-color: rgb(206, 231, 115);
+    height:100%;
+    width: 50%;
+    align-content: center;
+    margin: auto;
+    border-radius: 1rem;
+    padding-bottom: 0.5rem;
+
+
+}
+h1{
+    text-align: center;
+}
+.data{
+    padding-left: 2rem;
+}
+
+ul{
+    padding-left: 3rem;
+
+}
